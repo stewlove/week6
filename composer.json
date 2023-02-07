@@ -1,0 +1,12 @@
+{
+  "name": "stewart1/328/week6",
+  "authors": [
+    {
+      "name": "Stewart Lovell",
+      "email": "lovell.stewart@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
